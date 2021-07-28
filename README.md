@@ -2,7 +2,7 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Sembo Observable Watcher</h3>
+  <h1 align="center">Sembo Observable Watcher  👀</h1>
 
   <p align="center">
     This is a repo for the <a href="https://github.com/sembo-stenaline/sembo-observable-watcher/packages/917070">sembo-observable-watcher package</a>, created to be able to watch changes in observables
@@ -22,7 +22,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <summary><h2 style="display: inline-block">📄 Table of Contents</h2></summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -45,20 +45,20 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## 👀 About The Project
 
-### Built With
+### 🏗 Built With
 
 * [TypeScript](https://www.typescriptlang.org/)
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+### 🛫 Getting Started
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
+### 🧳 Prerequisites
 
 You need to have npm installed globally. You can write `npm --v` to see what version you have.
 * npm
@@ -66,7 +66,7 @@ You need to have npm installed globally. You can write `npm --v` to see what ver
   npm install npm@latest -g
   ```
 
-### Installation
+### ⚙️ Installation
 
 1. Clone the repo
    ```sh
@@ -80,14 +80,14 @@ You need to have npm installed globally. You can write `npm --v` to see what ver
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## 🦾 Usage
 
 This repository is for the [sembo-observable-watcher package](https://github.com/sembo-stenaline/sembo-observable-watcher/packages/917070)
 
 
 
 <!-- CONTACT -->
-## Contact
+## 💌 Contact
 
 Erich Ledesma - [Github](https://github.com/erich-sembo) - erich.ledesma@sembo.se
 Pep Carmona  - [Github](https://github.com/pep-carmona) - pep.carmona@sembo.se

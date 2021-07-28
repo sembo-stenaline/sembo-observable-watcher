@@ -17,14 +17,14 @@ export function WatchToSubject(path: string, watchOptions: WatchOptions = {}) {
       watch[path] = []
     }
 
-    const handler = function(this: any, args: any[]) {
+    const handler = function(this: any, args: any) {
       const decoratedProp = this[key]
 
       if (! (decoratedProp instanceof Subject))
         throw Error('Can only publish changes to a Subject')
 
       const subject: Subject<unknown> = decoratedProp
-      subject.next(args[0])
+      subject.next(args)
     }
 
     watch[path].push({ handler, ...watchOptions })

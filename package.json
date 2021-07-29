@@ -1,6 +1,6 @@
 {
   "name": "@sembo-stenaline/sembo-observable-watcher",
-  "version": "1.1.0",
+  "version": "1.1.4",
   "description": "",
   "license": "ISC",
   "main": "dist/WatchToSubject.js",
@@ -15,7 +15,7 @@
     "url": "git://github.com/sembo-stenaline/sembo-observable-watcher.git"
   },
   "dependencies": {
-    "rxjs": "^7.1.0",
+    "rxjs": "^6.6.3",
     "vue": "^2.6.11",
     "vue-class-component": "^7.2.3"
   },
